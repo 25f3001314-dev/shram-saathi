@@ -1,0 +1,10 @@
+{
+  "notice": "Prototype-only, local knowledge. Verify policy against current government documents before production use.",
+  "topics": [
+    { "id": "eshram-registration", "title": "eShram registration", "summary": "Registration guidance can be provided through an assisted flow. Required information must be confirmed with the official service." },
+    { "id": "pf", "title": "PF / EPFO", "summary": "The assistant can explain common PF support journeys and direct workers to official channels." },
+    { "id": "esi", "title": "ESI", "summary": "The assistant can route workers to ESI support and a human operator for case-specific help." },
+    { "id": "ncs", "title": "NCS jobs", "summary": "The demo can show mock job opportunities. It does not guarantee a job or represent live NCS inventory." },
+    { "id": "rights", "title": "Worker rights", "summary": "When a verified answer is unavailable, the assistant should offer a human handoff rather than guess." }
+  ]
+}
